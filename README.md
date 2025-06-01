@@ -12,7 +12,7 @@ Pode consultar os enunciados e os respetivos relatórios abaixo (todos os docume
 - **Trabalho Prático 2**  
   📄 [Enunciado TP2_1](TP2/enunciado_tp2_1.pdf)  
   📄 [Enunciado TP2_2](TP2/enunciado_tp2_2.pdf)  
-  📝 [Relatório TP2](TP2/relatorio_fase_2.pdf)
+  📝 [Relatório TP2](TP2/relatorio_tp2.pdf)
 
 - **Trabalho Prático 3**  
   📄 [Enunciado TP3](TP3/enunciado_tp3.pdf)  
@@ -34,12 +34,12 @@ You can check the statements and the respective reports below (all documents are
 - **Assignment 1**  
   📄 [Statement TP2_1](TP2/enunciado_tp2_1.pdf)  
   📄 [Statement TP2_2](TP2/enunciado_tp2_2.pdf)  
-  📝 [Report TP2](TP2/relatorio_fase_2.pdf)
+  📝 [Report TP2](TP2/relatorio_tp2.pdf)
 
 - **Assignment 1**  
   📄 [Statement TP3](TP3/enunciado_tp3.pdf)  
   📝 [Report TP3](TP3/relatorio_tp3.pdf)
-  
+
 ## Final Notes
 - [Assignment 1 : ?? / 20 ⭐️ ]
 - [Assignment 2 : ?? / 20 ⭐️ ]
