@@ -7,16 +7,16 @@ Pode consultar os enunciados e os respetivos relatórios abaixo (todos os docume
 
 - **Trabalho Prático 1**  
   📄 [Enunciado TP1](TP1/enunciado_tp1.pdf)
-  📝 [Relatório TP1](TP1/relatório_fase_1.pdf) ?? / 20 ⭐️
+  📝 [Relatório TP1](TP1/relatório_fase_1.pdf)
 
 - **Trabalho Prático 2**  
   📄 [Enunciado TP2_1](TP2/enunciado_tp2_1.pdf)
   📄 [Enunciado TP2_2](TP2/enunciado_tp2_2.pdf)
-  📝 [Relatório TP2](TP2/relatorio_fase_2.pdf) ?? / 20 ⭐️
+  📝 [Relatório TP2](TP2/relatorio_fase_2.pdf)
 
 - **Trabalho Prático 3**  
   📄 [Enunciado TP3](TP3/enunciado_tp3.pdf)  
-  📝 [Relatório TP3](TP3/relatorio_tp3.pdf) ?? / 20 ⭐️
+  📝 [Relatório TP3](TP3/relatorio_tp3.pdf)
 
 
 ## Notas Finais
@@ -30,15 +30,15 @@ You can check the statements and the respective reports below (all documents are
 ## Practical Works
 - **Practical Work 1**  
   📄 [Statement TP1](TP1/enunciado_tp1.pdf)
-  📝 [Report TP1](TP1/relatório_fase_1.pdf) ?? / 20 ⭐️
+  📝 [Report TP1](TP1/relatório_fase_1.pdf)
 - **Practical Work 2**
      📄 [Statement TP2_1](TP2/enunciado_tp2_1.pdf)
      📄 [Statement TP2_2](TP2/enunciado_tp2_2.pdf)
-     📝 [Report TP2](TP2/relatorio_fase_2.pdf) ?? / 20 ⭐️
+     📝 [Report TP2](TP2/relatorio_fase_2.pdf)
 
 - **Practical Work 3**
   📄 [Statement TP3](TP3/enunciado_tp3.pdf)  
-  📝 [Report TP3](TP3/relatorio_tp3.pdf) ?? / 20 ⭐️
+  📝 [Report TP3](TP3/relatorio_tp3.pdf)
 ## Final Notes
 - [Practical Work 1 : ?? / 20 ⭐️ ](TP1)
 - [Practical Work 2 : ?? / 20 ⭐️ ](TP2)
