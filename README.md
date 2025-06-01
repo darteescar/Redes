@@ -25,21 +25,21 @@ Pode consultar os enunciados e os respetivos relatórios abaixo (todos os docume
 * [Trabalho Prático 3 : ?? / 20 ⭐️ ]
 
 # Computer Networks
-Practical works carried out in the scope of the Computer Networks course.
+Assignments carried out in the scope of the Computer Networks course.
 You can check the statements and the respective reports below (all documents are in Portuguese):
-- **Trabalho Prático 1**  
+- **Assignment 1**  
   📄 [Enunciado TP1](TP1/enunciado_tp1.pdf)  
   📝 [Relatório TP1](TP1/relatório_fase_1.pdf)
 
-- **Trabalho Prático 2**  
+- **Assignment 1**  
   📄 [Enunciado TP2_1](TP2/enunciado_tp2_1.pdf)  
   📄 [Enunciado TP2_2](TP2/enunciado_tp2_2.pdf)  
   📝 [Relatório TP2](TP2/relatorio_fase_2.pdf)
 
-- **Trabalho Prático 3**  
+- **Assignment 1**  
   📄 [Enunciado TP3](TP3/enunciado_tp3.pdf)  
   📝 [Relatório TP3](TP3/relatorio_tp3.pdf)
 ## Final Notes
-- [Practical Work 1 : ?? / 20 ⭐️ ]
-- [Practical Work 2 : ?? / 20 ⭐️ ]
-- [Practical Work 3 : ?? / 20 ⭐️ ]
+- [Assignment 1 : ?? / 20 ⭐️ ]
+- [Assignment 2 : ?? / 20 ⭐️ ]
+- [Assignment 3 : ?? / 20 ⭐️ ]
