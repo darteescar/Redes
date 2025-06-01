@@ -20,9 +20,9 @@ Pode consultar os enunciados e os respetivos relatórios abaixo (todos os docume
 
 
 ## Notas Finais
-* [Trabalho Prático 1 : ?? / 20 ⭐️ ] (TP1)
-* [Trabalho Prático 2 : ?? / 20 ⭐️ ] (TP2)
-* [Trabalho Prático 3 : ?? / 20 ⭐️ ] (TP3)
+* [Trabalho Prático 1 : ?? / 20 ⭐️ ]
+* [Trabalho Prático 2 : ?? / 20 ⭐️ ]
+* [Trabalho Prático 3 : ?? / 20 ⭐️ ]
 
 # Computer Networks
 Practical works carried out in the scope of the Computer Networks course.
@@ -40,6 +40,6 @@ You can check the statements and the respective reports below (all documents are
   📄 [Statement TP3](TP3/enunciado_tp3.pdf)  
   📝 [Report TP3](TP3/relatorio_tp3.pdf)
 ## Final Notes
-- [Practical Work 1 : ?? / 20 ⭐️ ] (TP1)
-- [Practical Work 2 : ?? / 20 ⭐️ ] (TP2)
-- [Practical Work 3 : ?? / 20 ⭐️ ] (TP3)
+- [Practical Work 1 : ?? / 20 ⭐️ ]
+- [Practical Work 2 : ?? / 20 ⭐️ ]
+- [Practical Work 3 : ?? / 20 ⭐️ ]
