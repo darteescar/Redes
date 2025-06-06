@@ -7,7 +7,7 @@ Pode consultar os enunciados e os respetivos relatórios abaixo (todos os docume
 
 - **Trabalho Prático 1**  
   📄 [Enunciado TP1](TP1/enunciado_tp1.pdf)  
-  📝 [Relatório TP1](TP1/relatório_fase_1.pdf)
+  📝 [Apresentação TP1](TP1/relatório_fase_1.pdf)
 
 - **Trabalho Prático 2**  
   📄 [Enunciado TP2_1](TP2/enunciado_tp2_1.pdf)  
@@ -25,14 +25,14 @@ Assignments carried out in the scope of the Computer Networks course.
 You can check the statements and the respective reports below (all documents are in Portuguese):
 - **Assignment 1**  
   📄 [Statement TP1](TP1/enunciado_tp1.pdf)  
-  📝 [Report TP1](TP1/relatório_fase_1.pdf)
+  📝 [TP1 Presentation](TP1/relatório_fase_1.pdf)
 
-- **Assignment 1**  
+- **Assignment 2**  
   📄 [Statement TP2_1](TP2/enunciado_tp2_1.pdf)  
   📄 [Statement TP2_2](TP2/enunciado_tp2_2.pdf)  
   📝 [Report TP2](TP2/relatorio_tp2.pdf)
 
-- **Assignment 1**  
+- **Assignment 3**  
   📄 [Statement TP3](TP3/enunciado_tp3.pdf)  
   📝 [Report TP3](TP3/relatorio_tp3.pdf)
 
