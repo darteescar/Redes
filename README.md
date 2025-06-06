@@ -36,4 +36,4 @@ You can check the statements and the respective reports below (all documents are
   📄 [Statement TP3](TP3/enunciado_tp3.pdf)  
   📝 [Report TP3](TP3/relatorio_tp3.pdf)
 
-## Final Mark: 16.37 / 20 ⭐️
+## Final Grade: 16.37 / 20 ⭐️
