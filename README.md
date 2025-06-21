@@ -18,7 +18,7 @@ Pode consultar os enunciados e os respetivos relatórios abaixo (todos os docume
   📄 [Enunciado TP3](TP3/enunciado_tp3.pdf)  
   📝 [Relatório TP3](TP3/relatorio_tp3.pdf)
 
-## Nota Final: 16.37 / 20 ⭐️
+### Nota Final: 16.37 / 20 ⭐️
 
 # Computer Networks
 Assignments carried out in the scope of the Computer Networks course.
@@ -36,4 +36,4 @@ You can check the statements and the respective reports below (all documents are
   📄 [Statement TP3](TP3/enunciado_tp3.pdf)  
   📝 [Report TP3](TP3/relatorio_tp3.pdf)
 
-## Final Grade: 16.37 / 20 ⭐️
+## Final Mark: 16.37 / 20 ⭐️
