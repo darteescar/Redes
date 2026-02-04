@@ -1,7 +1,7 @@
 # Redes de Computadores
 
 Trabalhos práticos realizados no âmbito da Unidade Curricular de Redes de Computadores.  
-Pode consultar os enunciados e os respetivos relatórios abaixo (todos os documentos estão em português)
+Pode consultar os enunciados e os respetivos relatórios abaixo (todos os documentos estão em português):
 
 ## Trabalhos Práticos
 
